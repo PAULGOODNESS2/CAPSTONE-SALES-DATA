@@ -1,15 +1,20 @@
 # LITA-CAPSTONE-PROJECT-DOCUMENTATION
+---
 This is where i documented my first real project after my LITA Data Analysis Boothcamp with Incubator Hub
 ### Project Title: Sales Performance Analysis for a Retail Store
+---
 
 ### Project Overview: 
+---
 The primary goal of this project is to analyze the sales performance of a retail store over a specified period. This analysis aims to identify trends, key metrics, and actionable insights that can help improve sales strategies, operational efficiency and to tell compelling stories around our data from the insights gotten.
 
 ### Data Sources
-The primary source of Data used here is Sales Data.csv and this is  a data gotten from a retail store Daily sales
+---
+The primary source of Data used here is Sales Data.csv file, and this is  a data gotten from a retail store Daily sales
 transaction records, including product details, quantities sold, and total sales.
 
 ### Tools Used
+---
 - Microsoft Excel [Download Here] (https://www.microsoft.com)
    1. For Data Cleaning
    2. For Analysis
@@ -21,4 +26,45 @@ transaction records, including product details, quantities sold, and total sales
   1. For Data Visualization
   2. For Data Integration
   3. For Business Intelligence
+     
 - GitHub for Portfolio Building
+
+### Data Cleaning and Preparations
+---
+In the initial phase of the Data cleaning and preparations, we perform the following actions;
+1. Data Loading and Inspection
+2. Handling Missing variables
+3. Data Cleaning and formatting
+4. Correcting data types
+5. Aggregating sales data
+
+### Exploratory Data Analysis
+---
+EDA involved the exploring of the Data to answer questions about the Data such as;
+- What is the overall sales trend?
+- Which Products are top sellers?
+- What are the Products on peak sales?
+
+### Data Analysis
+---
+This is where we include some basic lines of code or queries or even some DAX expressions we worked with during the analysis;
+
+````SQL
+SELECT * TABLE1
+----find the number of sales transactions in each region
+select Region, count (*) as
+NumberOfTransactions
+from [dbo].[LITA CAPSTONE SALES DATA]
+Group By Region;
+````
+
+### Data Visualization
+
+
+
+
+
+
+
+
+
