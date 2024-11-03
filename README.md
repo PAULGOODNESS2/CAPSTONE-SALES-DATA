@@ -6,15 +6,17 @@ In this project, you are tasked with analyzing the sales performance of a retail
 
 [Project Overview](#project-overview)
 
-[Data Sources](#data-sources#)
+[Data Sources](#data-sources)
 
-[Tools Used](#tools-used#)
+[Tools Used](#tools-used)
 
-[Data Cleaning and Preparations](#data-cleaning-and-preparation#)
+[Data Cleaning and Preparations](#data-cleaning-and-preparation)
 
-[Exploratory Data Analysis]
-[Data Analysis]
-[Data Visualization]
+[Exploratory Data Analysis](#exploratory-dataanalysis)
+
+[Data Analysis](#data-analysis)
+
+[Data Visualization](#data-visualization)
 
 ### Project Overview: 
 ---
