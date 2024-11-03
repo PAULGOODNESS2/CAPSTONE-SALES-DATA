@@ -1,12 +1,12 @@
-# LITA-CAPSTONE-PROJECT-DOCUMENTATION
+# LITA-CAPSTONE-PROJECT-1
 ---
-This is where i documented my first real project after my LITA Data Analysis Boothcamp with Incubator Hub
+In this project, you are tasked with analyzing the sales performance of a retail store.
 ### Project Title: Sales Performance Analysis for a Retail Store
 ---
 
 ### Project Overview: 
 ---
-The primary goal of this project is to analyze the sales performance of a retail store over a specified period. This analysis aims to identify trends, key metrics, and actionable insights that can help improve sales strategies, operational efficiency and to tell compelling stories around our data from the insights gotten.
+The primary goal of this project is to analyze the sales performance of a retail store over a specified period. This analysis aims to identify trends, key metrics, and actionable insights such as top-selling products, regional performance, and monthly sales trends that can help improve sales strategies, operational efficiency and to tell compelling stories around our data from the insights gotten.
 
 ### Data Sources
 ---
