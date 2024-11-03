@@ -12,7 +12,7 @@ In this project, you are tasked with analyzing the sales performance of a retail
 
 [Data Cleaning and Preparations](#data-cleaning-and-preparation)
 
-[Exploratory Data Analysis](#exploratory-dataanalysis)
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Data Analysis](#data-analysis)
 
