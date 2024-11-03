@@ -18,6 +18,14 @@ In this project, you are tasked with analyzing the sales performance of a retail
 
 [Data Visualization](#data-visualization)
 
+[Results And Findings](#results-and-findings)
+
+[Recommendations](#recommendations)
+
+
+
+
+
 ### Project Overview: 
 ---
 The primary goal of this project is to analyze the sales performance of a retail store over a specified period. This analysis aims to identify trends, key metrics, and actionable insights such as top-selling products, regional performance, and monthly sales trends that can help improve sales strategies, operational efficiency and to tell compelling stories around our data from the insights gotten.
@@ -73,6 +81,20 @@ Group By Region;
 ````
 
 ### Data Visualization:
+
+
+
+
+
+### Results And Findings:
+
+The Analysis results are summarized as follows:
+
+
+
+### Recommendations:
+
+Based on the analysis, we recommend the following items:
 
 
 
