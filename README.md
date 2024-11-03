@@ -4,16 +4,28 @@ In this project, you are tasked with analyzing the sales performance of a retail
 ### Project Title: Sales Performance Analysis for a Retail Store
 ---
 
+[Project Overview](#project-overview)
+
+[Data Sources](#data-sources#)
+
+[Tools Used](#tools-used#)
+
+[Data Cleaning and Preparations](#data-cleaning-and-preparation#)
+
+[Exploratory Data Analysis]
+[Data Analysis]
+[Data Visualization]
+
 ### Project Overview: 
 ---
 The primary goal of this project is to analyze the sales performance of a retail store over a specified period. This analysis aims to identify trends, key metrics, and actionable insights such as top-selling products, regional performance, and monthly sales trends that can help improve sales strategies, operational efficiency and to tell compelling stories around our data from the insights gotten.
 
-### Data Sources
+### Data Sources:
 ---
 The primary source of Data used here is Sales Data.csv file, and this is  a data gotten from a retail store Daily sales
 transaction records, including product details, quantities sold, and total sales.
 
-### Tools Used
+### Tools Used:
 ---
 - Microsoft Excel [Download Here] (https://www.microsoft.com)
    1. For Data Cleaning
@@ -29,7 +41,7 @@ transaction records, including product details, quantities sold, and total sales
      
 - GitHub for Portfolio Building
 
-### Data Cleaning and Preparations
+### Data Cleaning and Preparations:
 ---
 In the initial phase of the Data cleaning and preparations, we perform the following actions;
 1. Data Loading and Inspection
@@ -38,14 +50,14 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 4. Correcting data types
 5. Aggregating sales data
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis:
 ---
 EDA involved the exploring of the Data to answer questions about the Data such as;
 - What is the overall sales trend?
 - Which Products are top sellers?
 - What are the Products on peak sales?
 
-### Data Analysis
+### Data Analysis:
 ---
 This is where we include some basic lines of code or queries or even some DAX expressions we worked with during the analysis;
 
@@ -58,7 +70,7 @@ from [dbo].[LITA CAPSTONE SALES DATA]
 Group By Region;
 ````
 
-### Data Visualization
+### Data Visualization:
 
 
 
