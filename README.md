@@ -80,7 +80,7 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 4. Correcting data types
 5. Aggregating sales data
 6. Removing Duplicates
-7. Created new column for
+7. Created new column for Unit Sold and Product (Revenue)
 
 ### Exploratory Data Analysis:
 ---
