@@ -33,14 +33,21 @@ The primary goal of this project is to analyze the sales performance of a retail
 ### Problem Statement:
 ---
 
-• retrieve the total sales for each product category. 
-find the number of sales transactions in each region.
-• find the highest-selling product by total sales value. 
-o calculate total revenue per product.
-• calculate monthly sales totals for the current year. 
-o find the top 5 customers by total purchase amount. 
-o calculate the percentage of total sales contributed by each region. 
-o identify products with no sales in the last quarter.
+-retrieve the total sales for each product category. 
+
+-find the number of sales transactions in each region.
+
+-find the highest-selling product by total sales value. 
+
+-calculate total revenue per product.
+
+-calculate monthly sales totals for the current year. 
+
+-find the top 5 customers by total purchase amount. 
+
+-calculate the percentage of total sales contributed by each region.
+
+-identify products with no sales in the last quarter.
 
 ### Data Sources:
 ---
