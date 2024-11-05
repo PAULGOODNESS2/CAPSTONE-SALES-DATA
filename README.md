@@ -97,8 +97,9 @@ Group By Region;
 
 ### Data Visualization:
 
-![Screenshot (7)](https://github.com/user-attachments/assets/4b14c14d-7567-435f-9145-6ced13fd2a52)
 
+
+![Screenshot (11)](https://github.com/user-attachments/assets/dd6b31bd-17e1-418b-8f32-289d8e16bab1)
 
 
 
