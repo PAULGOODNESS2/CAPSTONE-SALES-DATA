@@ -102,9 +102,17 @@ from [dbo].[LITA CAPSTONE SALES DATA]
 Group By Region;
 ````
 
-[Upload[InternetShortcut]
-URL=https://github.com/PAULGOODNESS2/CAPSTONE-SALES-DATA/commit/ecce78fa6933fdcf587fbb8320122e23b670dfc5
-ing Sales Data Query.url…]()
+
+
+
+![Screenshot (12)](https://github.com/user-attachments/assets/a30922d8-37ed-4d19-ae31-4cbb9f0ca8a9)
+
+
+
+
+
+![Screenshot (14)](https://github.com/user-attachments/assets/c67251c3-a6ec-46d3-ae32-febcda6daa76)
+
 
 SQL for Sales Date
 
