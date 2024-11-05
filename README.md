@@ -180,7 +180,7 @@ The Analysis results are summarized as follows:
    |Jacket   |208230   |
    |Socks    |180985   |
 
-6. Monthly Sales Total for the Current year:
+5. Monthly Sales Total for the Current year:
 
 |Month | Monthly Sales |
 |------|---------------|
@@ -192,6 +192,23 @@ The Analysis results are summarized as follows:
 |6     |148200        |
 |7     |37200         |
 |8     |174300        |
+
+6. First Five Customer by Total Purchase Amount:
+   |Customer ID | Total PurchaseAmount|
+   |------------|---------------------|
+   |Cus 1374    |3635                 |
+   |Cus 1416    |3636                 |
+   |Cus 1426    |3735                 |
+   |Cus 1318    |3735                 |
+   |Cus 1435    |3735                 |
+
+7. Percentage Of Total Sales Contributed By Each Region:
+   |Region |Region Sales|Percentage |
+   |-------|------------|-----------|
+   |North  |1950000     |18.4       |
+   |East   |2450000     |23.1       |
+   |South  |4675000     |44.1       |
+   |West   |1512500     |14.2       |
 
 ### Recommendations:
 
