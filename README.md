@@ -146,8 +146,52 @@ Power BI Dashboard visualizing:
 ### Results And Findings:
 
 The Analysis results are summarized as follows:
+1. Total Sales of each product category:
 
+|PRODUCT  |TOTAL SALES|
+|---------|---------|
+|Shoes    | 613380      |
+|Shirt    | 485600      |
+|Hat      | 316195      |
+|Gloves   | 296900      |
+|Jacket   |208230       |
+|Socks    |180985       |
 
+2. Total Number of Sales Transactions on each Region:
+   |Region |Number Of Transactions|
+   |--------|--------------------|
+   |North   |2481|
+   |East    |2483|
+   |South   |2480|
+   |West    |2477|
+
+3. Highest Selling Product by Total Sales value:
+   |Product |TotalSales|
+   |--------|----------|
+   |Shoes   |613380    |
+
+4. Total Revenue per product:
+   |PRODUCT  |TOTAL SALES|
+   |---------|---------|
+   |Shoes    |613380   |
+   |Shirt    | 485600  |
+   |Hat      | 316195  |
+   |Gloves   | 296900  |
+   |Jacket   |208230   |
+   |Socks    |180985   |
+
+6. Monthly Sales Total for the Current year:
+
+|Month | Monthly Sales |
+|------|---------------|
+|1     |198400        |
+|2     |298800        |
+|3     |54980         |
+|4     |39440         |
+|5     |44640         |
+|6     |148200        |
+|7     |37200         |
+|8     |174300        |
 
 ### Recommendations:
 
