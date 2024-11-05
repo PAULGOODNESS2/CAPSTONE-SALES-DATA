@@ -55,6 +55,7 @@ transaction records, including product details, quantities sold, and total sales
    3. For Data Visualization
       
 - SQL - Structured Query Language for Querying of Data
+  
 
 - Power BI
   1. For Data Visualization
@@ -94,6 +95,9 @@ from [dbo].[LITA CAPSTONE SALES DATA]
 Group By Region;
 ````
 
+[Upload[InternetShortcut]
+URL=https://github.com/PAULGOODNESS2/CAPSTONE-SALES-DATA/commit/ecce78fa6933fdcf587fbb8320122e23b670dfc5
+ing Sales Data Query.url…]()
 
 ### Data Visualization:
 
