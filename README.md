@@ -33,21 +33,21 @@ The primary goal of this project is to analyze the sales performance of a retail
 ### Problem Statement:
 ---
 
--retrieve the total sales for each product category. 
+- retrieve the total sales for each product category. 
 
--find the number of sales transactions in each region.
+- find the number of sales transactions in each region.
 
--find the highest-selling product by total sales value. 
+- find the highest-selling product by total sales value. 
 
--calculate total revenue per product.
+-  calculate total revenue per product.
 
--calculate monthly sales totals for the current year. 
+- calculate monthly sales totals for the current year. 
 
--find the top 5 customers by total purchase amount. 
+- find the top 5 customers by total purchase amount. 
 
--calculate the percentage of total sales contributed by each region.
+- calculate the percentage of total sales contributed by each region.
 
--identify products with no sales in the last quarter.
+- identify products with no sales in the last quarter.
 
 ### Data Sources:
 ---
@@ -108,14 +108,14 @@ ing Sales Data Query.url…]()
 
 ### Data Visualization:
 
-
-
-
 ![Screenshot (9)](https://github.com/user-attachments/assets/cd2f3ed6-baf1-499c-b4e2-5e14653bc773)
+Sales Pivot
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/fb6377a2-c16e-4521-b2ed-9f56e54ed797)
 
+
 ![Screenshot (11)](https://github.com/user-attachments/assets/dd6b31bd-17e1-418b-8f32-289d8e16bab1)
+
 
 
 
