@@ -222,7 +222,19 @@ The Analysis results are summarized as follows:
 ### Recommendations:
 
 Based on the analysis, we recommend the following items:
+- Marketing Strategies: To increase sales, marketing strategies should be implemented in all regions, with a focus on low-performing regions.
 
+- Product Awareness: To improve performance and drive growth, items with low sales should be promoted, get loyalty benefits, and targeted marketing.
+
+- Product stock: The shop should focus on stocking more of high-performing items and fewer of low-selling products, to assure the availability of these products at all times and to boost sales performance.
+
+- Customer satisfaction analysis: To maintain growth and increase loyalty, the shop should focus on surpassing consumers' expectations.
+
+- Price increase: To break even and boost sales, the prices of popular items should be raised during periods of strong demand.
+
+- Seasonal Performance: The best-selling items, shirts and shoes, should be well-stocked throughout the year, but especially in February. Seasonal patterns should be researched.
+
+- It is important to choose trustworthy suppliers for popular items to guarantee that they are never out of stock and that customers can always purchase them.
 
 
 
