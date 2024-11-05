@@ -99,6 +99,11 @@ Group By Region;
 
 
 
+
+![Screenshot (9)](https://github.com/user-attachments/assets/cd2f3ed6-baf1-499c-b4e2-5e14653bc773)
+
+![Screenshot (8)](https://github.com/user-attachments/assets/fb6377a2-c16e-4521-b2ed-9f56e54ed797)
+
 ![Screenshot (11)](https://github.com/user-attachments/assets/dd6b31bd-17e1-418b-8f32-289d8e16bab1)
 
 
