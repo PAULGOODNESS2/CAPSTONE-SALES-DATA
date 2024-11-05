@@ -123,12 +123,20 @@ Sales Pivot
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/fb6377a2-c16e-4521-b2ed-9f56e54ed797)
 
-Excel Dashboard
+Excel Sales Dashboard visualizing:
+- Revenue By Region
+- Revenue By Product
+- Average Sales By Products
+- Monthly Sales
+- Slicers for interactions
 
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/dd6b31bd-17e1-418b-8f32-289d8e16bab1)
 
-Power BI Dashboard
+Power BI Dashboard visualizing:
+- Sales overview.
+- Top Performing product
+- Regional Breakdow
 
 
 ### Results And Findings:
