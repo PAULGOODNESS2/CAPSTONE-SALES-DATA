@@ -106,6 +106,8 @@ Group By Region;
 URL=https://github.com/PAULGOODNESS2/CAPSTONE-SALES-DATA/commit/ecce78fa6933fdcf587fbb8320122e23b670dfc5
 ing Sales Data Query.url…]()
 
+SQL for Sales Date
+
 ### Data Visualization:
 
 ![Screenshot (9)](https://github.com/user-attachments/assets/cd2f3ed6-baf1-499c-b4e2-5e14653bc773)
@@ -113,10 +115,12 @@ Sales Pivot
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/fb6377a2-c16e-4521-b2ed-9f56e54ed797)
 
+Excel Dashboard
+
 
 ![Screenshot (11)](https://github.com/user-attachments/assets/dd6b31bd-17e1-418b-8f32-289d8e16bab1)
 
-
+Power BI Dashboard
 
 
 ### Results And Findings:
