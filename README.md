@@ -6,6 +6,8 @@ In this project, you are tasked with analyzing the sales performance of a retail
 
 [Project Overview](#project-overview)
 
+[Problem Statement](#problem-statement)
+
 [Data Sources](#data-sources)
 
 [Tools Used](#tools-used)
@@ -109,17 +111,16 @@ Group By Region;
 
 
 
-
-
 ![Screenshot (14)](https://github.com/user-attachments/assets/c67251c3-a6ec-46d3-ae32-febcda6daa76)
 
-
-SQL for Sales Date
+SQL Query for Sales Date
 
 ### Data Visualization:
 
 ![Screenshot (9)](https://github.com/user-attachments/assets/cd2f3ed6-baf1-499c-b4e2-5e14653bc773)
-Sales Pivot
+
+Sales Pivot showing:
+
 
 ![Screenshot (8)](https://github.com/user-attachments/assets/fb6377a2-c16e-4521-b2ed-9f56e54ed797)
 
@@ -136,7 +137,7 @@ Excel Sales Dashboard visualizing:
 Power BI Dashboard visualizing:
 - Sales overview.
 - Top Performing product
-- Regional Breakdow
+- Regional Breakdown
 
 
 ### Results And Findings:
