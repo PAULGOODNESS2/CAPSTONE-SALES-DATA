@@ -30,6 +30,18 @@ In this project, you are tasked with analyzing the sales performance of a retail
 ---
 The primary goal of this project is to analyze the sales performance of a retail store over a specified period. This analysis aims to identify trends, key metrics, and actionable insights such as top-selling products, regional performance, and monthly sales trends that can help improve sales strategies, operational efficiency and to tell compelling stories around our data from the insights gotten.
 
+### Problem Statement:
+---
+
+• retrieve the total sales for each product category. 
+find the number of sales transactions in each region.
+• find the highest-selling product by total sales value. 
+o calculate total revenue per product.
+• calculate monthly sales totals for the current year. 
+o find the top 5 customers by total purchase amount. 
+o calculate the percentage of total sales contributed by each region. 
+o identify products with no sales in the last quarter.
+
 ### Data Sources:
 ---
 The primary source of Data used here is Sales Data.csv file, and this is  a data gotten from a retail store Daily sales
@@ -59,6 +71,8 @@ In the initial phase of the Data cleaning and preparations, we perform the follo
 3. Data Cleaning and formatting
 4. Correcting data types
 5. Aggregating sales data
+6. Removing Duplicates
+7. Created new column for
 
 ### Exploratory Data Analysis:
 ---
