@@ -211,12 +211,12 @@ The Analysis results are summarized as follows:
    |West   |1512500     |14.2       |
 
 8. Products with no sales in the last quarter:
-|PRODUCTS|
-|Gloves  |
-|Jacket  |
-|Shirts  |
-|Shoes   |
-|Socks   |
+   
+- Gloves  
+- Jacket  
+- Shirts  
+- Shoes   
+- Socks   
 
 
 ### Recommendations:
