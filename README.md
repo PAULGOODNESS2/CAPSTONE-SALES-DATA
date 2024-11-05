@@ -210,6 +210,15 @@ The Analysis results are summarized as follows:
    |South  |4675000     |44.1       |
    |West   |1512500     |14.2       |
 
+8. Products with no sales in the last quarter:
+|PRODUCTS|
+|Gloves  |
+|Jacket  |
+|Shirts  |
+|Shoes   |
+|Socks   |
+
+
 ### Recommendations:
 
 Based on the analysis, we recommend the following items:
