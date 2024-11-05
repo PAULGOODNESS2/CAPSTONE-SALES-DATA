@@ -93,10 +93,11 @@ NumberOfTransactions
 from [dbo].[LITA CAPSTONE SALES DATA]
 Group By Region;
 ````
-https://github.com/PAULGOODNESS2/CAPSTONE-SALES-DATA/commit/ecce78fa6933fdcf587fbb8320122e23b670dfc5
+
 
 ### Data Visualization:
 
+![Screenshot (7)](https://github.com/user-attachments/assets/4b14c14d-7567-435f-9145-6ced13fd2a52)
 
 
 
