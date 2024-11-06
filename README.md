@@ -238,8 +238,6 @@ Based on the analysis, we recommend the following items:
 
 
 
+### THANK YOU!
 
-
-
-
-
+![image](https://github.com/user-attachments/assets/5414adff-09f6-4829-aafc-b53647db30f1)
